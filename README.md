@@ -13,4 +13,4 @@ Some fun facts about me:
 - I love to try new foods.
 - I hope to travel around the world and experience new things that I couldn't try anywhere else. 
 
-Feel free to contact me on GitHub or on LinkedIn
+Feel free to contact me on GitHub or on LinkedIn!
