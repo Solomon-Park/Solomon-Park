@@ -8,9 +8,8 @@ My experience has also helped me to be able to problem-solve and to think quickl
 I have worked in fast-paced environments and know how to keep calm in the storms to better allow me to analyze data to the best of my ability despite difficult circumstances.
 
 Some fun facts about me:
-- I love cooking and think I'm fairly good at it
-- I love watching movies and TV shows, especially comedies and thrillers.
-- I love to try new foods.
+- I love cooking and trying new foods.
+- I like watching movies and TV shows, especially comedies and thrillers.
 - I hope to travel around the world and experience new things that I couldn't try anywhere else. 
 
 Feel free to contact me on GitHub or on LinkedIn!
