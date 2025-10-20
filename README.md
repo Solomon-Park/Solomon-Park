@@ -9,7 +9,7 @@ I have worked in fast-paced environments and know how to keep calm in the storms
 
 Some fun facts about me:
 - I love cooking and trying new foods.
-- I like watching movies and TV shows, especially comedies and thrillers.
-- I hope to travel around the world and experience new things that I couldn't try anywhere else. 
+- I love writing and hope to publish a book someday.
+- I hope to travel around the world to experience new things that I couldn't try anywhere else. 
 
 Feel free to contact me on GitHub or on LinkedIn!
